@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\shreekant\\Github\\.NetDocker\\DockerApi\\",
+  "WorkspaceRootPath": "C:\\shreekant\\Github\\NET-OLD\\DockerApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D5F620D-FF6D-455E-97C4-E6E50785E991}|DockerApi.csproj|c:\\shreekant\\github\\.netdocker\\dockerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8D5F620D-FF6D-455E-97C4-E6E50785E991}|DockerApi.csproj|c:\\shreekant\\github\\net-old\\dockerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8D5F620D-FF6D-455E-97C4-E6E50785E991}|DockerApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5F620D-FF6D-455E-97C4-E6E50785E991}|DockerApi.csproj|c:\\shreekant\\github\\.netdocker\\dockerapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8D5F620D-FF6D-455E-97C4-E6E50785E991}|DockerApi.csproj|c:\\shreekant\\github\\net-old\\dockerapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8D5F620D-FF6D-455E-97C4-E6E50785E991}|DockerApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -348,9 +348,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\shreekant\\Github\\.NetDocker\\DockerApi\\appsettings.json",
+              "DocumentMoniker": "C:\\shreekant\\Github\\NET-OLD\\DockerApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\shreekant\\Github\\.NetDocker\\DockerApi\\appsettings.json",
+              "ToolTip": "C:\\shreekant\\Github\\NET-OLD\\DockerApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -361,14 +361,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\shreekant\\Github\\.NetDocker\\DockerApi\\Dockerfile",
+              "DocumentMoniker": "C:\\shreekant\\Github\\NET-OLD\\DockerApi\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\shreekant\\Github\\.NetDocker\\DockerApi\\Dockerfile",
+              "ToolTip": "C:\\shreekant\\Github\\NET-OLD\\DockerApi\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-15T17:10:53.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T17:10:53.682Z"
             }
           ]
         },

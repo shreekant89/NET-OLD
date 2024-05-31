@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l9JU0jQuNRY8aUksnRhqMiSoFFvsAOPR9taMlQKxrs5PpXHYsXoUwfNAjXMsRHT39ato6GP3HAg9s7imgRFNIw==",
+  "dgSpecHash": "FDFNjXS38l2n4gJHrf/e7zedg6MmbndGq6mckCvx7jGNmYoW4Q8Aht8q0PEGrx4Sx+PwkCPSXsZ4Sal2YHnSKw==",
   "success": true,
-  "projectFilePath": "C:\\shreekant\\Github\\.NetDocker\\DockerApi\\DockerApi.csproj",
+  "projectFilePath": "C:\\shreekant\\Github\\NET-OLD\\DockerApi\\DockerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\swatff\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\swatff\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

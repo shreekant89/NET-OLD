@@ -1,0 +1,15 @@
+C:\shreekant\Github\NET-OLD\distinct.orderby\bin\Debug\net7.0\distinct.orderby.exe
+C:\shreekant\Github\NET-OLD\distinct.orderby\bin\Debug\net7.0\distinct.orderby.deps.json
+C:\shreekant\Github\NET-OLD\distinct.orderby\bin\Debug\net7.0\distinct.orderby.runtimeconfig.json
+C:\shreekant\Github\NET-OLD\distinct.orderby\bin\Debug\net7.0\distinct.orderby.dll
+C:\shreekant\Github\NET-OLD\distinct.orderby\bin\Debug\net7.0\distinct.orderby.pdb
+C:\shreekant\Github\NET-OLD\distinct.orderby\obj\Debug\net7.0\distinct.orderby.GeneratedMSBuildEditorConfig.editorconfig
+C:\shreekant\Github\NET-OLD\distinct.orderby\obj\Debug\net7.0\distinct.orderby.AssemblyInfoInputs.cache
+C:\shreekant\Github\NET-OLD\distinct.orderby\obj\Debug\net7.0\distinct.orderby.AssemblyInfo.cs
+C:\shreekant\Github\NET-OLD\distinct.orderby\obj\Debug\net7.0\distinct.orderby.csproj.CoreCompileInputs.cache
+C:\shreekant\Github\NET-OLD\distinct.orderby\obj\Debug\net7.0\distinct.orderby.sourcelink.json
+C:\shreekant\Github\NET-OLD\distinct.orderby\obj\Debug\net7.0\distinct.orderby.dll
+C:\shreekant\Github\NET-OLD\distinct.orderby\obj\Debug\net7.0\refint\distinct.orderby.dll
+C:\shreekant\Github\NET-OLD\distinct.orderby\obj\Debug\net7.0\distinct.orderby.pdb
+C:\shreekant\Github\NET-OLD\distinct.orderby\obj\Debug\net7.0\distinct.orderby.genruntimeconfig.cache
+C:\shreekant\Github\NET-OLD\distinct.orderby\obj\Debug\net7.0\ref\distinct.orderby.dll

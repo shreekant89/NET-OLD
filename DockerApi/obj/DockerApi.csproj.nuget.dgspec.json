@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\shreekant\\Github\\.NetDocker\\DockerApi\\DockerApi.csproj": {}
+    "C:\\shreekant\\Github\\NET-OLD\\DockerApi\\DockerApi.csproj": {}
   },
   "projects": {
-    "C:\\shreekant\\Github\\.NetDocker\\DockerApi\\DockerApi.csproj": {
+    "C:\\shreekant\\Github\\NET-OLD\\DockerApi\\DockerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\shreekant\\Github\\.NetDocker\\DockerApi\\DockerApi.csproj",
+        "projectUniqueName": "C:\\shreekant\\Github\\NET-OLD\\DockerApi\\DockerApi.csproj",
         "projectName": "DockerApi",
-        "projectPath": "C:\\shreekant\\Github\\.NetDocker\\DockerApi\\DockerApi.csproj",
+        "projectPath": "C:\\shreekant\\Github\\NET-OLD\\DockerApi\\DockerApi.csproj",
         "packagesPath": "C:\\Users\\swatff\\.nuget\\packages\\",
-        "outputPath": "C:\\shreekant\\Github\\.NetDocker\\DockerApi\\obj\\",
+        "outputPath": "C:\\shreekant\\Github\\NET-OLD\\DockerApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
