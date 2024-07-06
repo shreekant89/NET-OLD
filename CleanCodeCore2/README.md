@@ -1,9 +1,3 @@
-**Domain** will have only interface,entities,businesslogic 
-**API/Controller** will have reference of infra,application layer
-**APPLICATION** layer have reference to domain 
-**Infra** will have reference to application 
-
-
 TodoApp
 ├── TodoApp.sln
 └── src
@@ -30,6 +24,12 @@ TodoApp
         ├── Program.cs
         ├── Startup.cs 
         └── TodoApp.API.csproj
+
+
+**Domain** will have only interface,entities,businesslogic 
+**API/Controller** will have reference of infra,application layer
+**APPLICATION** layer have reference to domain 
+**Infra** will have reference to application 
 
 ![image](https://github.com/shreekant89/NET-OLD/assets/25607735/3c86a1a1-63fe-4854-8490-58edae2a48e4)
 
