@@ -62,6 +62,10 @@
             "type": "string"
           }
         },
+        "PublishRID": {
+          "type": "string",
+          "description": "Publish Runtime IDentifier - Default win-x64"
+        },
         "Root": {
           "type": "string",
           "description": "Root directory during build execution"
